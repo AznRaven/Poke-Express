@@ -1,0 +1,7 @@
+img {
+    height: 40vh;
+}
+
+.pokemon-item {
+    flex-basis: 33%;
+}
